@@ -9,6 +9,9 @@ What is Wuwa Slash V3?
 
 -Design for browser will be fix to match the phone width.
 
+
+--------------------------------------------------------------
+
 How To Setup
 
 Install slash-setup.exe
