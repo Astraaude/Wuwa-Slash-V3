@@ -14,6 +14,8 @@ What is Wuwa Slash V3?
 
 How To Setup
 
+Enable Antivirus/Firewall (To prevent importants file getting deleted)
+
 Install slash-setup.exe
 
 Run Loader.exe 
