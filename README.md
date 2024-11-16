@@ -9,7 +9,19 @@ What is Wuwa Slash V3?
 
 -Design for browser will be fix to match the phone width.
 
+How To Setup
+
+Install slash-setup.exe
+
+Run Loader.exe 
+
+For first setup you need to open the game your self
+
+Then all you need is wait until the game opened it self ( if it auto closed, reopen Loader.exe )
+
+Logs Handled Included and More Stealth Injection method used..
+
 ![image](https://github.com/user-attachments/assets/bb14e18e-d72c-4b08-ab98-ea16d5038a78)
-![image](https://github.com/user-attachments/assets/c5ed93cf-510c-4e2f-bbfd-c73b434c926e)
+
 
 
