@@ -1,0 +1,100 @@
+Currently support 1.4 version.
+
+List of features Wuthering Waves Cheetos
+
+
+**Player**
+- Multi Hits
+- No Skill Cooldown
+- God Mode
+- No Fall Damage
+- Always Crit
+- Infinite Ultimate Energy
+- Infinite Special Energy
+- Infinite Stamina
+- Infinite Intro Outro
+- Player Speed
+- Kill Aura ( Damage Overtime To Enemy )
+- Kill Aura 2 ( Instant Death Enemy )
+- Auto Dodge
+- Auto Parry
+- Kill Animal
+- Suicide
+- Kill Aura Counter
+
+**Player Buff**
+- Add Resonance Chain 6 Menu
+- Add Super Buff ( Like Super Power Before )
+- Add Normal Buff ( Decent Buff )
+- Add 50% Coin , material , echo rate Buff
+- Add Recovery HP
+- Weapon Signature R5 Buff ( For Certain Char For Now )
+- Critical Damage Buff
+- Increase HP Buff
+- Echo Damage Buff
+- Super Def
+- Enemy God Mode
+- God Damage ( Billion Dmg )
+
+**Coop Menu*** ( Other player got the effect too )*
+- No Skill Cooldown
+- God Mode
+- Infinite Ultimate Energy
+- Infinite Special Energy
+- Infinite Stamina
+- Add Resonance Chain 6 Menu
+- Add Super Buff ( Like Super Power Before )
+- Add Normal Buff ( Decent Buff )
+- Add 50% Coin , material , echo rate Buff
+- Add Recovery HP
+- Weapon Signature R5 Buff ( For Certain Char For Now )
+- Echo Damage Buff
+- God Damage
+- Suicide ( Trolling Kill Other Player Except You )
+
+**Dungeon & Farm** **( FUNCTION NOT YET MIGRATION TO V3 )**
+- Auto Restart Dungeon
+- Teleport Dungeon
+- Farm Tracked Monster
+- Teleport Tracked Map Icon ( Semi Auto Quest )
+- Echo's Auto Merge
+- Auto Challenge Boss
+- Auto Claim Reward Challenge Boss
+
+**World**
+- World Speed
+- Dumb Enemies
+- Enemy Vacuum
+- Auto Puzzle
+- Auto Pick Collect
+- Auto Pick Chest
+- Auto Destroy ( Mining )
+- Auto Absorb
+- Unrestricted All Area
+
+**Teleport** **( FUNCTION NOT YET MIGRATION TO V3 )**
+- Mark TP
+- Quest Teleport
+- Teleport Json File Loader ( With Delay for Auto Teleport and Hotkey for manual Teleport )
+
+**ESP**
+- ESP Monster
+- ESP Chest
+- ESP Collectible
+- ESP Others
+- ESP Teleport
+
+**MISC**
+- Unlock FPS
+- Plot Skip
+- Auto Plot Skip
+- Set UID
+- Fly (No Clip)
+- F.O.V
+- Indicator
+
+
+*Known Issue : *
+**- Sometimes Coop failing to reload the game..
+
+
